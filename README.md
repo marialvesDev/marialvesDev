@@ -36,14 +36,6 @@
 
 ---
 
-## 🚀 Projetos
-
-📌 Sistema de Cadastro de Clientes em Python
-
-📌 Projetos acadêmicos voltados para programação e sistemas de informação
-
----
-
 ## 📊 Estatísticas GitHub
 
 <p align="center">
@@ -75,10 +67,10 @@
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://github.com/marialvesDev">
-    <img src="https://img.shields.io/badge/GitHub-marialvesDev-181717?style=for-the-badge&logo=github">
-  </a>
+<p align="center"> 
+  <a href="www.linkedin.com/in/maricelia-souza-alves"> 
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"> 
+</a>
 </p>
 
 ---
