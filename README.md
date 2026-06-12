@@ -1,52 +1,103 @@
-<h2 align="left"> Oi 👋! Meu nome é Maricelia, sou estudante de Sistemas de Informação </h2>
+<h1 align="center">Olá, eu sou Maricelia 👋</h1>
 
-###
+<p align="center">
+  <strong>Estudante de Sistemas de Informção </strong>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  Apaixonada por tecnologia, programação, automação e Inteligência Artificial 
+</p>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450">
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+### 👩‍💻 Sobre Mim
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+🎓 Estudante de Sistemas de Informação
 
-###
+💻 Atualmente estudando:
+- Python
+- Banco de Dados
+- Git e GitHub
+- Automação com N8N
+- Inteligência Artificial
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+🚀 Buscando oportunidades de estágio e desenvolvimento profissional na área de tecnologia.
 
-###
+---
 
-<br clear="both">
+### 🛠️ Tecnologias e Ferramentas
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-###
+---
+
+### 📚 Atualmente Aprendendo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+---
+
+### 🚀 Projetos
+
+📌 Sistema de Cadastro de Clientes em Python
+
+📌 Chatbot de Customer Success utilizando N8N, Google Sheets e IA via API da Groq
+
+📌 Projetos acadêmicos voltados para lógica de programação e desenvolvimento de sistemas
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Objetivos
+
+✅ Evoluir em Python
+
+✅ Criar projetos para portfólio
+
+✅ Aprender mais sobre IA e Automação
+
+✅ Conquistar uma oportunidade de estágio em Tecnologia
+
+---
+
+### 🌐 Contato
+
+<p>
+  💼 LinkedIn: www.linkedin.com/in/maricelia-souza-alves
+ 
+</p>
+
+---
+
+<p align="center">
+  ✨ Obrigada por visitar meu perfil! ✨
+</p>
+```
+
 
 <!--
 **marialvesDev/marialvesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
