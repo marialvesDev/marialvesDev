@@ -1,115 +1,90 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marialvesDev/marialvesDev/refs/heads/main/download.jfif" width="100%">
+</p>
+
 <h1 align="center">Olá, eu sou Maricelia 👋</h1>
 
-<p align="center">
-  <strong>Estudante de Sistemas de Informção </strong>
-</p>
+<h3 align="center">🎓 Estudante de Sistemas de Informação</h3>
 
 <p align="center">
-  Apaixonada por tecnologia, programação, automação e Inteligência Artificial 
+  Apaixonada por tecnologia, programação, automação e Inteligência Artificial 🚀
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450">
+  <a href="https://github.com/marialvesDev">
+    <img src="https://img.shields.io/badge/GitHub-marialvesDev-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 Sobre Mim
+## 👩‍💻 Sobre Mim
 
-🎓 Estudante de Sistemas de Informação
-
-💻 Atualmente estudando:
-- Python
-- Banco de Dados
-- Git e GitHub
-- Automação com N8N
-- Inteligência Artificial
-
-🚀 Buscando oportunidades de estágio e desenvolvimento profissional na área de tecnologia.
+- 🎓 Estudante de Sistemas de Informação
+- 💻 Atualmente estudando Python, Banco de Dados e Desenvolvimento de Software
+- 🤖 Interesse em Inteligência Artificial e Automação
+- 🔧 Experiência com N8N, Google Sheets e APIs
+- 🚀 Construindo meu portfólio e buscando oportunidades na área de tecnologia
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql" />
 </p>
 
 ---
 
-### 📚 Atualmente Aprendendo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
----
-
-### 🚀 Projetos
+## 🚀 Projetos
 
 📌 Sistema de Cadastro de Clientes em Python
 
-📌 Chatbot de Customer Success utilizando N8N, Google Sheets e IA via API da Groq
-
-📌 Projetos acadêmicos voltados para lógica de programação e desenvolvimento de sistemas
+📌 Projetos acadêmicos voltados para programação e sistemas de informação
 
 ---
 
-### 📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marialvesDev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialvesDev&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔥 Sequência de Contribuições
+## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialvesDev&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Objetivos
+## 🎯 Objetivos
 
-✅ Evoluir em Python
+✅ Aprimorar meus conhecimentos em Python
 
-✅ Criar projetos para portfólio
+✅ Desenvolver projetos para meu portfólio
 
-✅ Aprender mais sobre IA e Automação
+✅ Aprender mais sobre Inteligência Artificial e Automação
 
-✅ Conquistar uma oportunidade de estágio em Tecnologia
+✅ Conquistar uma oportunidade de estágio na área de tecnologia
 
 ---
 
-### 🌐 Contato
+## 📫 Contato
 
-<p>
-  💼 LinkedIn: www.linkedin.com/in/maricelia-souza-alves
- 
+<p align="center">
+  <a href="https://github.com/marialvesDev">
+    <img src="https://img.shields.io/badge/GitHub-marialvesDev-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Obrigada por visitar meu perfil! ✨
+✨ Obrigada por visitar meu perfil! ✨
 </p>
 ```
 
-
-<!--
-**marialvesDev/marialvesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
